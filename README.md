@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm currently learning the basics of GitHub as a way to kickstart my education on development
 
 <!--
 **Dehabibi1/Dehabibi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
